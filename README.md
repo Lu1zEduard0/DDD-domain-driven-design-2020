@@ -5,9 +5,7 @@
 
 ## :computer:	 Projeto
 
-Objetivo desse projeto é mostrar quais camadas são necessárias, mostrar onde fica cada coisa no DDD e o entender o motivo que separamos em camadas. Lembrando que esse projeto foi criado com o auxílio de  
-<a href=“https://www.youtube.com/watch?v=MjnO2mcE-AQ“>Valdir Ferreira</a> e <a href=“https://web.digitalinnovation.one/lab/desenvolvendo-sua-aplicacao-com-c-usando-ddd/learning/54dac93d-910e-458d-a3b8-8d31138556a3“> Alexandre Daccas.</a>
-
+Objetivo desse projeto é mostrar quais camadas são necessárias, mostrar onde fica cada coisa no DDD e o entender o motivo que separamos em camadas. Lembrando que esse projeto foi criado com o auxílio de [Valdir Ferreira ](https://www.youtube.com/watch?v=MjnO2mcE-AQ) e [Alexandre Daccas.](https://web.digitalinnovation.one/lab/desenvolvendo-sua-aplicacao-com-c-usando-ddd/learning/54dac93d-910e-458d-a3b8-8d31138556a3)
 
 
 - [ ] Implementar validações na regra de negocio - Dominio 
@@ -27,7 +25,7 @@ Objetivo desse projeto é mostrar quais camadas são necessárias, mostrar onde 
 
 * <a href="https://visualstudio.microsoft.com/pt-br/downloads/">Microsoft Visual Studio Community 2019</a><small> (recomendado).</small>
 
-* <a hrfe ="https://docs.microsoft.com/pt-br/sql/ssms/sql-server-management-studio-ssms?view=sql-server-ver15">SQL Server Management Studio </a>
+* <a href ="https://docs.microsoft.com/pt-br/sql/ssms/sql-server-management-studio-ssms?view=sql-server-ver15">SQL Server Management Studio</a>
 
 ##### Acessando o projeto:
 
